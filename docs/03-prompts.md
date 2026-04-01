@@ -70,7 +70,7 @@ ________________________________________
 
 ### Cenário 1: [Controle financeiro]
 
-**Contexto:** [Cliente não está conseguindo guardar dinheiro]
+**Contexto:** Cliente não está conseguindo guardar dinheiro
 
 **Usuário:**
 ```
@@ -106,7 +106,7 @@ Se quiser, te mostro exatamente onde dá pra cortar 👍"
 
 ### Cenário 2: [Investimentos]
 
-**Contexto:** [Usuário quer investir seu dinheiro]
+**Contexto:** Usuário quer investir seu dinheiro
 
 **Usuário:**
 ```
@@ -178,12 +178,25 @@ Se quiser, posso te ajudar a organizar suas finanças ou melhorar sua estratégi
 
 **Usuário:**
 ```
-[ex: Onde devo investir meu dinheiro?]
+"Bitcoin é bom?"
 ```
 
 **Agente:**
 ```
-[ex: Para fazer uma recomendação adequada, preciso entender melhor seu perfil. Você já preencheu seu questionário de perfil de investidor?]
+"Boa 👀
+
+Mas tem um ponto importante: o Bitcoin não está entre os investimentos que aparecem nos dados atuais.
+
+Então eu não consigo analisar diretamente isso dentro do seu cenário agora.
+
+👉 Insight: antes de entrar em qualquer investimento novo, o ideal é ver como ele se encaixa no que você já tem — e não decidir isoladamente
+
+De forma geral:
+
+Bitcoin é um ativo de alto risco e alta volatilidade
+Pode fazer sentido em alguns casos, mas não pra todo mundo
+
+Se quiser, posso te mostrar como avaliar se esse tipo de investimento combina com seu perfil 👍"
 ```
 
 ---
